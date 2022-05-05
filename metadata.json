@@ -4,7 +4,9 @@
   "icon": "calibration.png",
   "version":"0.01",
   "description": "A simple calibration app for the touchscreen",
-  "tags": "",
+  "supports": ["BANGLEJS","BANGLEJS2"],
+  "readme": "README.md",
+  "tags": "tool",
   "storage": [
     {"name":"calibration.app.js","url":"app.js"},
     {"name":"calibration.boot.js","url":"boot.js"},
