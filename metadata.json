@@ -2,7 +2,7 @@
   "name": "Touchscreen Calibration",
   "shortName":"Calibration",
   "icon": "calibration.png",
-  "version":"0.01",
+  "version":"0.02",
   "description": "A simple calibration app for the touchscreen",
   "supports": ["BANGLEJS","BANGLEJS2"],
   "readme": "README.md",
